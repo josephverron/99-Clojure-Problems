@@ -48,11 +48,7 @@
 (def intro-to-sequences-solution 3)
 
 ;; problem 13 (Elementary)
-(def sequences-rest-solution
-  ;; The rest function will return all the items of a sequence except the
-  ;; first.
-  nil)
-
+(def sequences-rest-solution [20 30 40])
 
 ;; problem 14 (Elementary)
 (def intro-to-functions-solution

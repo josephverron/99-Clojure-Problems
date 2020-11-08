@@ -59,14 +59,12 @@
   (is (= intro-to-sequences-solution (first '(3 2 1))))
   (is (= intro-to-sequences-solution (second [2 3 4])))
   (is (= intro-to-sequences-solution (last (list 1 2 3)))))
-;
-;
-; ;; problem 13
-; (deftest can-sequences-rest
-;   (is (= sequences-rest-solution (rest [10 20 30 40]))))
-;
-;
-; ;; problem 14
+
+;; problem 13
+(deftest can-sequences-rest
+  (is (= sequences-rest-solution (rest [10 20 30 40]))))
+
+;; problem 14
 ; (deftest can-intro-to-functions
 ;   (is (= intro-to-functions-solution ((fn add-five [x] (+ x 5)) 3)))
 ;   (is (= intro-to-functions-solution ((fn [x] (+ x 5)) 3)))
