@@ -15,11 +15,7 @@
 (def nothing-but-the-truth-solution true)
 
 ;; problem 2 (Elementary)
-(def simple-math-solution
-  ;; If you are not familiar with polish notation, simple arithmetic might seem
-  ;; confusing. Note: Enter only enough to fill in the blank (in this case, a
-  ;; single number) - do not retype the whole problem.
-  nil)
+(def simple-math-solution 4)
 
 
 ;; problem 3 (Elementary)
