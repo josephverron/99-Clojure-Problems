@@ -17,12 +17,8 @@
 ;; problem 2 (Elementary)
 (def simple-math-solution 4)
 
-
 ;; problem 3 (Elementary)
-(def intro-to-strings-solution
-  ;; Clojure strings are Java strings. This means that you can use any of the
-  ;; Java string methods on Clojure strings.
-  nil)
+(def intro-to-strings-solution "HELLO WORLD")
 
 
 ;; problem 4 (Elementary)
