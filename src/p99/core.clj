@@ -51,10 +51,7 @@
 (def sequences-rest-solution [20 30 40])
 
 ;; problem 14 (Elementary)
-(def intro-to-functions-solution
-  ;; Clojure has many different ways to create functions.
-  nil)
-
+(def intro-to-functions-solution 8)
 
 ;; problem 15 (Elementary)
 (defn double-down-solution
