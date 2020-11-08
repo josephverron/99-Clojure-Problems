@@ -57,11 +57,7 @@
 (defn double-down-solution [x] (* 2 x))
 
 ;; problem 16 (Elementary)
-(defn hello-world-solution
-  [& args] ;; update args as needed
-  ;; Write a function which returns a personalized greeting.
-  nil)
-
+(defn hello-world-solution [name] (format "Hello, %s!" name))
 
 ;; problem 17 (Elementary)
 (defn sequences-map-solution
