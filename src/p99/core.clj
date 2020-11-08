@@ -32,12 +32,8 @@
 ;; problem 7 (Elementary)
 (def vectors-conj-solution [1 2 3 4])
 
-
 ;; problem 8 (Elementary)
-(def intro-to-sets-solution
-  ;; Sets are collections of unique values.
-  nil)
-
+(def intro-to-sets-solution #{:a :b :c :d})
 
 ;; problem 9 (Elementary)
 (def sets-conj-solution
