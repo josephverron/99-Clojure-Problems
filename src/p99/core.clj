@@ -45,11 +45,7 @@
 (def maps-conj-solution {:b 2})
 
 ;; problem 12 (Elementary)
-(def intro-to-sequences-solution
-  ;; All Clojure collections support sequencing. You can operate on sequences
-  ;; with functions like first, second, and last.
-  nil)
-
+(def intro-to-sequences-solution 3)
 
 ;; problem 13 (Elementary)
 (def sequences-rest-solution
