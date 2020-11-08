@@ -23,20 +23,14 @@
 ;; problem 4 (Elementary)
 (def intro-to-lists-solution (list :a :b :c))
 
-
 ;; problem 5 (Elementary)
 (def lists-conj-solution (list 1 2 3 4))
-
 
 ;; problem 6 (Elementary)
 (def intro-to-vectors-solution [:a :b :c])
 
-
 ;; problem 7 (Elementary)
-(def vectors-conj-solution
-  ;; When operating on a Vector, the conj function will return a new vector
-  ;; with one or more items "added" to the end.
-  nil)
+(def vectors-conj-solution [1 2 3 4])
 
 
 ;; problem 8 (Elementary)
