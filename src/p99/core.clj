@@ -36,11 +36,7 @@
 (def intro-to-sets-solution #{:a :b :c :d})
 
 ;; problem 9 (Elementary)
-(def sets-conj-solution
-  ;; When operating on a set, the conj function returns a new set with one or
-  ;; more keys "added".
-  nil)
-
+(def sets-conj-solution 2)
 
 ;; problem 10 (Elementary)
 (def intro-to-maps-solution
