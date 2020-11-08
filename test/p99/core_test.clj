@@ -29,7 +29,7 @@
 
 ;; problem 6
 (deftest can-intro-to-vectors
-  (is (= [intro-to-vectors-solution] (list :a :b :c) (vec '(:a :b :c)) (vector :a :b :c))))
+  (is (= intro-to-vectors-solution (list :a :b :c) (vec '(:a :b :c)) (vector :a :b :c))))
 
 ; ;; problem 7
 ; (deftest can-vectors-conj

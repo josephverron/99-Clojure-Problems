@@ -29,9 +29,7 @@
 
 
 ;; problem 6 (Elementary)
-(def intro-to-vectors-solution
-  ;; Vectors can be constructed several ways. You can compare them with lists.
-  nil)
+(def intro-to-vectors-solution [:a :b :c])
 
 
 ;; problem 7 (Elementary)
