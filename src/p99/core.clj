@@ -25,10 +25,7 @@
 
 
 ;; problem 5 (Elementary)
-(def lists-conj-solution
-  ;; When operating on a list, the conj function will return a new list with
-  ;; one or more items "added" to the front.
-  nil)
+(def lists-conj-solution (list 1 2 3 4))
 
 
 ;; problem 6 (Elementary)
