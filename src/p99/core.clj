@@ -42,11 +42,7 @@
 (def intro-to-maps-solution 20)
 
 ;; problem 11 (Elementary)
-(def maps-conj-solution
-  ;; When operating on a map, the conj function returns a new map with one or
-  ;; more key-value pairs "added".
-  nil)
-
+(def maps-conj-solution {:b 2})
 
 ;; problem 12 (Elementary)
 (def intro-to-sequences-solution
