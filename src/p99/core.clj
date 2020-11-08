@@ -54,11 +54,7 @@
 (def intro-to-functions-solution 8)
 
 ;; problem 15 (Elementary)
-(defn double-down-solution
-  [& args] ;; update args as needed
-  ;; Write a function which doubles a number.
-  nil)
-
+(defn double-down-solution [x] (* 2 x))
 
 ;; problem 16 (Elementary)
 (defn hello-world-solution

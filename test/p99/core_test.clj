@@ -71,12 +71,12 @@
   (is (= intro-to-functions-solution (#(+ % 5) 3)))
   (is (= intro-to-functions-solution ((partial + 5) 3))))
 
-; ;; problem 15
-; (deftest can-double-down
-;   (is (= (double-down-solution 2) 4))
-;   (is (= (double-down-solution 3) 6))
-;   (is (= (double-down-solution 11) 22))
-;   (is (= (double-down-solution 7) 14)))
+;; problem 15
+(deftest can-double-down
+  (is (= (double-down-solution 2) 4))
+  (is (= (double-down-solution 3) 6))
+  (is (= (double-down-solution 11) 22))
+  (is (= (double-down-solution 7) 14)))
 ;
 ;
 ; ;; problem 16
