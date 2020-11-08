@@ -20,7 +20,7 @@
 
 ;; problem 4
 (deftest can-intro-to-lists
-  (is (= (list intro-to-lists-solution) '(:a :b :c))))
+  (is (= intro-to-lists-solution '(:a :b :c))))
 
 ; ;; problem 5
 ; (deftest can-lists-conj
