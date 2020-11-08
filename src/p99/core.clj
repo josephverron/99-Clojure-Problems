@@ -39,12 +39,7 @@
 (def sets-conj-solution 2)
 
 ;; problem 10 (Elementary)
-(def intro-to-maps-solution
-  ;; Maps store key-value pairs. Both maps and keywords can be used as lookup
-  ;; functions. Commas can be used to make maps more readable, but they are not
-  ;; required.
-  nil)
-
+(def intro-to-maps-solution 20)
 
 ;; problem 11 (Elementary)
 (def maps-conj-solution
